@@ -8,5 +8,11 @@
             "url": "#mision"},
          {"id": 4, "name":"Vision", "dspMenu":"Vision", "color":"warning",
             "url": "#vision"}
+    ],
+    "usuarios":[
+        {"id":1, "user":"mlismarc", "nombre":"Miriam"},
+        {"id":2, "user":"jcRodriguez", "nombre":"Juan Carlos"},
+        {"id":3, "user":"alejandra", "nombre":"Ma Alejandra"}
+
     ]
 }
