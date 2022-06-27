@@ -1,0 +1,12 @@
+{
+    "listaOpciones":[
+        {"id": 1, "name":"Nosotros", "dspMenu":"Acerca de Nosotros", "color":"primary",
+         "url": "#nosotros"},
+         {"id": 2, "name":"Objetivos", "dspMenu":"Objetivos", "color":"success",
+            "url": "#objetivos"},
+         {"id": 3, "name":"Mision", "dspMenu":"Mision", "color":"danger",
+            "url": "#mision"},
+         {"id": 4, "name":"Vision", "dspMenu":"Vision", "color":"warning",
+            "url": "#vision"}
+    ]
+}
